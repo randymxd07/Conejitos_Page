@@ -1,0 +1,54 @@
+
+ul div a{
+    color: white;
+    font-size: 20px;
+    margin-right: 30px;
+    text-decoration: none;
+}
+.nav :hover{
+    color: white;
+}
+.rmc{
+    font-size: 70px;
+    color: white;
+}
+.ocupacion{
+    color: white;
+    font-size: 30px;
+}
+.info{
+    /* margin-top: 230px; */
+    text-align: center; /* Centra el texto horizontalmente */
+    margin-top: 50%; /* Ajusta según sea necesario para centrar verticalmente */
+    transform: translateY(-140%); /* Ajusta según sea necesario para centrar verticalmente */
+}
+div .btn a{
+    text-decoration: none;
+    color: white;
+}
+div .btn{
+    width: 200px;
+    border-radius: 30px;
+    border-color: white;
+}
+li a {
+    text-decoration: none;
+}
+.sidenav-trigger{
+    text-decoration: none;
+}
+.gradient_blue_grey{
+    background: #bdc3c7;
+    background: -webkit-linear-gradient(to right, rgba(44, 62, 80, 0.603), rgba(189, 195, 199, 0.603));
+    background: linear-gradient(to right, rgba(44, 62, 80, 0.603), rgba(189, 195, 199, 0.603));
+}
+.wave{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+.gradient_orange_green{
+    background: #22c1c3;
+    background: -webkit-linear-gradient(to right, rgba(253, 187, 45, 0.61), rgba(34, 192, 195, 0.61));
+    background: linear-gradient(to right, rgba(253, 187, 45, 0.61), rgba(34, 192, 195, 0.61));
+}
